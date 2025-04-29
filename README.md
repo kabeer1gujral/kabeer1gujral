@@ -1,4 +1,4 @@
-Hello! I'm Kabeer Gujral, a Programming enthusiast based in India. With a curiosity-driven mindset and a love for problem-solving, I'm always excited to dive into new projects and explore the latest developments in the world of technology.
+Namaste! I'm Kabeer Gujral, a Programming enthusiast based in India. With a curiosity-driven mindset and a love for problem-solving, I'm always excited to dive into new projects and explore the latest developments in the world of technology.
 
 Coding Interests:
 Programming languages: HTML5, CSS3, BOOTSTRAP 3 & 4, SQL, Python, 
