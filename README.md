@@ -2,6 +2,7 @@ Namaste! I'm Kabeer Gujral, a Programming enthusiast based in India. With a curi
 
 Coding Interests:
 Programming languages: HTML5, CSS3, BOOTSTRAP 3 & 4, SQL, Python, 
+
 Areas of interest: web development, machine learning, data science, Arduino, Robotics, Aerospace, Electronics
 
 STEM Enthusiast:
